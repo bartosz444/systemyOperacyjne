@@ -1,1 +1,3 @@
 # systemyOperacyjne
+
+zmiany
